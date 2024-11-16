@@ -1,16 +1,15 @@
-## Hi there 👋
+## Seja bem-vindo ao meu perfil 🕵️
 
-<!--
-**riccigabrielc/riccigabrielc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gabriel Ricci
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você pode entrar em contato comigo 📭
+
+gabrielriccicavalheiro@gmail.com
+
+cavalheirogabrielr@gmail.com
+
+![](https://media1.tenor.com/m/WKs2jFwg9OgAAAAd/endrick-endrick-real-madrid.gif)
